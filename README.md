@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./artur-header.gif" width="100%" alt="Artur — Python Django Web Developer"/>
+<img src="./artur-header.png" width="100%" alt="Artur — Python Django Web Developer"/>
 
 <br/>
 
