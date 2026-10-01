@@ -2,7 +2,7 @@
 
 # Привет, я Артур 👋
 
-### Python / Django / Aiogram разработчик
+### Fullstack-разработчик
 
 </div>
 
