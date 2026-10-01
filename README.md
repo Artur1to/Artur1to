@@ -6,6 +6,10 @@
 
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Artur1to/Artur1to/main/3.jpg" width="300"/>
+  <img src="https://raw.githubusercontent.com/Artur1to/Artur1to/main/4.jpg" width="300"/>
+</div>
 
 
 ## 👨‍💻 Обо мне
@@ -110,5 +114,7 @@
 <div align="center">
 
 **Открыт к любым предложениям (Дайте работать пж 😢)**
+
+<img src="https://raw.githubusercontent.com/Artur1to/Artur1to/main/2.gif" width="350" alt="Hi"/>
 
 </div>
