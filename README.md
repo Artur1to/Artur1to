@@ -7,8 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Artur1to/Artur1to/main/3.jpg" width="300"/>
-  <img src="https://raw.githubusercontent.com/Artur1to/Artur1to/main/4.jpg" width="300"/>
+  <img src="https://raw.githubusercontent.com/Artur1to/Artur1to/main/5.gif" height="400" width="1000" />
 </div>
 
 
