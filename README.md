@@ -2,12 +2,12 @@
 
 # Привет, я Артур 👋
 
-### Python / Django разработчик
+### Python / Django / Aiogram разработчик
 
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Artur1to/Artur1to/main/5.gif" height="400" width="1000" />
+  <img src="https://raw.githubusercontent.com/Artur1to/Artur1to/main/5.gif" height="400" width="800" />
 </div>
 
 
@@ -15,10 +15,10 @@
 
 Мне **20 лет**, я студент 3-го курса **КГЭУ** по направлению *«Web-разработка»*.
 
-Создаю полноценные веб-приложения на **Python** и **Django** — от проектирования моделей и бизнес-логики до авторизации, работы с базами данных и деплоя на сервер. На данный момент изучаю PyTorch и ML.
+Создаю полноценные веб-приложения на **Django** — от проектирования моделей и бизнес-логики до авторизации, работы с базами данных и деплоя на сервер. Также занимаюсь разработкой телеграм ботов На данный момент изучаю PyTorch и ML.
 
 - 🐍 Основной язык — **Python**
-- 🌐 Основной фреймворк — **Django**
+- 🌐 Основные фреймворки / библиотеки — **Django, Aiogram**
 - 🗄️ Базы данных — **SQLite**, **PostgreSQL**
 - 🐧 Серверы — **VPS**, **Linux**, **Nginx**, **Gunicorn**
 - 🔧 Инструменты — **Git**, **Docker**
@@ -34,6 +34,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -50,6 +51,16 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+**Инструменты**
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Базовый уровень**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 </div>
 
 ---
@@ -91,8 +102,9 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Artur1to-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Artur1to)
-[![AltTools](https://img.shields.io/badge/Сайт-alttools.ru-ff7a3d?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alttools.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-@IArturitoI-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IArturitoI)
+[![VK](https://img.shields.io/badge/VK-arturitol-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.ru/arturitol)
+[![Email](https://img.shields.io/badge/Email-artur__gaffanov@mail.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artur_gaffanov@mail.ru)
 
 </div>
 
@@ -102,7 +114,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Artur1to&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Artur1to&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Artur1to&layout=compact&hide_border=true&theme=dark)
 
@@ -112,8 +124,10 @@
 
 <div align="center">
 
-**Открыт к любым предложениям (Дайте работать пж 😢)**
+**Открыт к любым предложениям (Дайте работать пожалуйста 😢)**
 
 <img src="https://raw.githubusercontent.com/Artur1to/Artur1to/main/2.gif" width="350" alt="Hi"/>
+
+![Visitors](https://ghvc.kabelkultur.se?username=Artur1to&label=Просмотры+профиля&color=ff7a3d&style=for-the-badge)
 
 </div>
